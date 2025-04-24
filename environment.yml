@@ -22,6 +22,6 @@ dependencies:
   - torchtext
   - opencv
   - librosa
-  - cudatoolkit=11.0
+  - cudatoolkit=11.8
   - pip:
     - torchviz
